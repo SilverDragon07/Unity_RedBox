@@ -4,4 +4,4 @@ Created by Tatsuki Yamada
 
 実際に遊ぶにはこちら↓
 
-https://silverdragon07.github.io/Unity_RedBox/
+https://Tatsuki-Yamada.github.io/Unity_RedBox/
